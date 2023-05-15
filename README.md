@@ -31,5 +31,4 @@ Project GitHub Link: https://www.buymeacoffee.com/pwyash/e...
 ![alt text](4.png)
 ![alt text](5.png)
 
-
-🌏 ![demo] : 
+🌏 ![demo] :(https://main--iridescent-mochi-bcf961.netlify.app/)
